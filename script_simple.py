@@ -1,4 +1,4 @@
 def saludar_robot():
-    print("Hola mundo! :)")
+    print("Programadores, sean mas creativos en los mensajes!")
 
 saludar_robot()
